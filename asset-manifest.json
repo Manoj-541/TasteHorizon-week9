@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TasteHorizon/static/css/main.d112a54e.css",
+    "main.js": "/TasteHorizon/static/js/main.0187b2da.js",
+    "static/js/453.a10b87f0.chunk.js": "/TasteHorizon/static/js/453.a10b87f0.chunk.js",
+    "static/media/applogo.png": "/TasteHorizon/static/media/applogo.86d3bc311fca43f8b23c.png",
+    "static/media/img1.jpg": "/TasteHorizon/static/media/img1.a99a7cd402d58c766c4d.jpg",
+    "index.html": "/TasteHorizon/index.html",
+    "main.d112a54e.css.map": "/TasteHorizon/static/css/main.d112a54e.css.map",
+    "main.0187b2da.js.map": "/TasteHorizon/static/js/main.0187b2da.js.map",
+    "453.a10b87f0.chunk.js.map": "/TasteHorizon/static/js/453.a10b87f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d112a54e.css",
+    "static/js/main.0187b2da.js"
+  ]
+}
