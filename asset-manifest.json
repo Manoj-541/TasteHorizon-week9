@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TasteHorizon-week9/static/css/main.37721e4b.css",
-    "main.js": "/TasteHorizon-week9/static/js/main.bcd6774c.js",
-    "static/js/453.8e13dc8e.chunk.js": "/TasteHorizon-week9/static/js/453.8e13dc8e.chunk.js",
-    "static/media/userImage.png": "/TasteHorizon-week9/static/media/userImage.9a5db6f4de80ae128ff7.png",
-    "index.html": "/TasteHorizon-week9/index.html",
-    "main.37721e4b.css.map": "/TasteHorizon-week9/static/css/main.37721e4b.css.map",
-    "main.bcd6774c.js.map": "/TasteHorizon-week9/static/js/main.bcd6774c.js.map",
-    "453.8e13dc8e.chunk.js.map": "/TasteHorizon-week9/static/js/453.8e13dc8e.chunk.js.map"
+    "main.css": "/week9/static/css/main.0158f3d9.css",
+    "main.js": "/week9/static/js/main.b02db67d.js",
+    "static/js/453.8e13dc8e.chunk.js": "/week9/static/js/453.8e13dc8e.chunk.js",
+    "static/media/userImage.png": "/week9/static/media/userImage.9a5db6f4de80ae128ff7.png",
+    "index.html": "/week9/index.html",
+    "main.0158f3d9.css.map": "/week9/static/css/main.0158f3d9.css.map",
+    "main.b02db67d.js.map": "/week9/static/js/main.b02db67d.js.map",
+    "453.8e13dc8e.chunk.js.map": "/week9/static/js/453.8e13dc8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37721e4b.css",
-    "static/js/main.bcd6774c.js"
+    "static/css/main.0158f3d9.css",
+    "static/js/main.b02db67d.js"
   ]
 }
